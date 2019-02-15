@@ -1,5 +1,5 @@
 # Demo Projekt
 
 *Hello, World!*<br>
-*Change #1*
-*Change #2*
+*Change #1*<br>
+*ChangeConflict*
